@@ -1,7 +1,6 @@
 # [jpera] -- 西暦から和暦に変換する Go 言語用パッケージ
 
-[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/spiegel-im-spiegel/jpera/master/LICENSE)
-[![GitHub release](http://img.shields.io/github/release/spiegel-im-spiegel/jpera.svg)](https://github.com/spiegel-im-spiegel/jpera/releases/latest)
+**このパッケージは [goark/koyomi](https://github.com/goark/koyomi) パッケージに移行・統合しました。リポジトリはメンテナンスされません**
 
 元号を含む和暦と西暦との変換を行います。
 元号は以下のものに対応しています。
